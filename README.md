@@ -35,7 +35,7 @@ Using SVD, we can:
 | File | Description |
 |------|-------------|
 | `svd_analysis.py` | Clean NumPy-based script performing SVD on a toy dataset |
-| `svd_analysis.ipynb` | *(optional)* Jupyter Notebook version with inline commentary |
+| `Output` |  Complete Output of the code |
 | `README.md` | This file |
 
 ---
