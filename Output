@@ -1,0 +1,27 @@
+Original Matrix A:
+    Weekday Trips  Weekend Trips  Premium Upgrades
+P1              5              1                 0
+P2              4              1                 0
+P3              1              4                 0
+P4              0              5                 0
+P5              0              2                 5
+
+Left Singular Vectors (U):
+          U1        U2        U3
+P1 -0.477312 -0.581719  0.191594
+P2 -0.402130 -0.450419  0.133495
+P3 -0.480795  0.167826 -0.337513
+P4 -0.507016  0.373907 -0.494515
+P5 -0.349623  0.539216  0.766166
+
+Singular Values (Σ):
+      Sigma1    Sigma2    Sigma3
+U1  7.715832  0.000000  0.000000
+U2  0.000000  5.881828  0.000000
+U3  0.000000  0.000000  4.457581
+
+Right Singular Vectors Transpose (Vᵀ):
+     Weekday Trips  Weekend Trips  Premium Upgrades
+VT1      -0.580090      -0.782410         -0.226562
+VT2      -0.772285       0.439852          0.458374
+VT3       0.258983      -0.440868          0.859397
