@@ -6,7 +6,7 @@ Discover Hidden Passenger Patterns using SVD. This repo demonstrates how Singula
 
 This repository contains example Python code accompanying the Medium blog post  
 **“Singular Value Decomposition: The Swiss Army Knife of Data Reduction”**  
-[Read the blog here →](https://medium.com/@your-medium-handle) 
+[Read the blog here →] https://medium.com/@shibaji005/singular-value-decomposition-the-swiss-army-knife-of-data-reduction-61165ddd6506?source=friends_link&sk=15d9930ba84c52d734196f4d830b5ddb 
 
 ---
 
